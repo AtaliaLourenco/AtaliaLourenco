@@ -1,7 +1,7 @@
 Hi there, I am Atalia Lourenço. 👋
 
 - 💻 Front-End developer.
-- 💻 Ui/UX Designer
+- 💻 UI/UX Designer
 - 👩‍🏫 Student of Information Technology Management
 - 👩‍🏫 Student of Digital Marketing Specialist
 
