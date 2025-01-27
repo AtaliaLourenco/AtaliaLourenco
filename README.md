@@ -1,9 +1,21 @@
 Hi there, I am Atalia Lourenço. 👋
 
-- 💻 Front-End developer.
-- 💻 UI/UX Designer
-- 👩‍🏫 Information Technology Management
-- 👩‍🏫 Digital Marketing Specialist
+Hello Strangers!
+
+I am a certified Web Developer with expertise in UX/UI Design, holding degrees in Information Technology Management and Digital Marketing. Currently, I work on creating websites, landing pages, and e-commerce platforms, while also contributing to the management of email campaigns and complete digital solutions.
+
+I have extensive experience in Web Development, UX/UI Design, Web Design, Graphic Design, and WordPress development, as well as in managing mass email campaigns, improving domain reputation, warming up domains, and recovering blacklisted domains.
+
+My areas of expertise include:
+Developing responsive websites using modern frameworks and libraries, as well as creating conversion-optimized landing pages.
+Applying cybersecurity best practices and leveraging artificial intelligence principles to enhance web solutions.
+Organizing and maintaining cold databases for large-scale email campaigns, ensuring effectiveness and compliance.
+Configuring SPF, DKIM, and DMARC records to ensure secure and reliable email communication.
+I stay updated on the latest technological innovations in web development, design, APIs, and email systems, continuously seeking opportunities to enhance my skills and contribute to impactful projects.
+
+I have a strong interest in collaborating with multidisciplinary teams and contributing to the development of complex solutions for continuous project optimization.
+
+If you'd like to explore my work, feel free to visit my portfolio at https://atalia-lourenco.com/. My passion for technology and dedication to constant improvement drive my growth and contributions to technological innovation.
 
 <div align="center">
   <a href="https://github.com/AtaliaLourenco">
