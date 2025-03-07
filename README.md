@@ -17,7 +17,7 @@ I have a strong interest in collaborating with multidisciplinary teams and contr
 
 If you'd like to explore my work, feel free to visit my portfolio at http://a-bravura.com. My passion for technology and dedication to constant improvement drive my growth and contributions to technological innovation.
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/AtaliaLourenco">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtaliaLourenco&layout=compact&langs_count=7&theme=light"/>
 </div>
