@@ -15,7 +15,7 @@ I stay updated on the latest technological innovations in web development, desig
 
 I have a strong interest in collaborating with multidisciplinary teams and contributing to the development of complex solutions for continuous project optimization.
 
-If you'd like to explore my work, feel free to visit my portfolio at https://atalia-lourenco.com/. My passion for technology and dedication to constant improvement drive my growth and contributions to technological innovation.
+If you'd like to explore my work, feel free to visit my portfolio at http://a-bravura.com. My passion for technology and dedication to constant improvement drive my growth and contributions to technological innovation.
 
 <div align="center">
   <a href="https://github.com/AtaliaLourenco">
