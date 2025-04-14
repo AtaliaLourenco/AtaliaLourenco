@@ -50,5 +50,10 @@ If you'd like to explore my work, feel free to visit my portfolio at http://a-br
   <a href = "mailto:thaliacardoso55@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/atalialourenco-developer-frontend/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.behance.net/thaliacardoso3" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
+  <a href="https://www.tiktok.com/@atalia.lourenco?_t=ZM-8vWp1Oyaxe9&_r=1" target="_blank"><img src="https://img.shields.io/badge/-TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
+  <a href="https://www.threads.net/@ataliacardoso?igshid=NTc4MTIwNjQ2YQ==" target="_blank"><img src="https://img.shields.io/badge/-Threads-black?style=for-the-badge&logo=threads&logoColor=white" target="_blank"></a>
+
+
+  
     
 </div>
