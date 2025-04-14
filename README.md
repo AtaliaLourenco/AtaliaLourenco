@@ -16,14 +16,6 @@ I stay updated on the latest technological innovations in web development, desig
 I have a strong interest in collaborating with multidisciplinary teams and contributing to the development of complex solutions for continuous project optimization.
 
 If you'd like to explore my work, feel free to visit my portfolio at http://a-bravura.com. My passion for technology and dedication to constant improvement drive my growth and contributions to technological innovation.
-
-<div align="left">
-  <a href="https://github.com/AtaliaLourenco"> 
-  <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AtaliaLourenco/AtaliaLourenco/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AtaliaLourenco/AtaliaLourenco/output/github-contribution-grid-snake.svg" />
-</picture>
-</a></div>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Atalia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
